@@ -1,0 +1,74 @@
+# 吴虹霖个人作品集 · 内容数据文件
+# 此文件用于填充网页文案，每行一条数据，格式：键=值
+# 网页加载时自动读取此文件，将对应字段渲染到页面中
+
+[hero]
+name=吴虹霖
+subtitle=影像 / 文案 / 运营 / 策划
+eyebrow=Portfolio Presentation
+lead=以影像、文字与运营三条线，把本人经历与作品能力串联成一篇顺着阅读就能看懂的作品集。整体以温润的暖调为基础，融入封面与结尾照片中的色彩元素，让页面看起来干净、有层次，也更适合面试场景。
+note=封面、About Me、作品展区与结尾页共同构成完整阅读路径。
+btn_about=了解我
+btn_works=查看作品
+
+[about]
+eyebrow=About Me
+title=关于我
+lead=广播电视编导专业在读，以影像创作、新媒体运营与文字策划三条线构建完整能力矩阵——从前期策划到拍摄剪辑，从账号冷启动到全链路运营，从学术研究到创意落地，具备独立闭环的实战能力。
+birth=2004年11月14日
+hometown=重庆市
+politics=预备党员
+school=重庆邮电大学
+major=广播电视编导
+gpa=3.55 / 4 | 5 / 137
+courses=传播学、融媒体传播、数字媒体概论、新媒体营销、内容电商、综艺节目策划、影视导演、影视技术
+awards_title=创作与执行
+awards_detail=精通 PR、AE、剪映，能完成视频剪辑、动态包装、特效制作和短视频完整产出；熟练使用 PS 进行平面素材处理与图文设计。拥有省级媒体与企业实习经历，从0到1搭建多平台自媒体账号矩阵，独立完成从策划、拍摄到成片的完整流程。
+ability_title=综合能力
+ability_detail=连续两年获得学业二等奖学金，兼任传媒艺术学院团委学生会兼职副书记（分管新媒体中心）。拥有三年高校新媒体管理经验，兼具内容创作、全域运营、活动策划和项目统筹能力，能胜任多线程项目全周期管理。
+skills_title=核心技能
+skill_video=PR · AE · 剪映 · PS
+skill_platform=抖音 · 小红书 · 公众号 · 视频号
+cert_title=联系方式 & 证书
+cert_email=19923471002@163.com / 1878929051@qq.com
+cert_phone=手机号：19923471002
+cert_tags=英语四级/六级,普通话二甲,WPS二级,C1驾驶证
+stat_awards=8+20
+stat_awards_label=国家级奖项 / 省部级奖项
+stat_views=25w+
+stat_views_label=视频内容总浏览量
+stat_likes=16w+
+stat_likes_label=全平台累计获赞
+stat_years=3 年
+stat_years_label=高校新媒体管理经验
+
+[showcase]
+eyebrow=Core Showcase
+title=核心作品展区
+desc=三大板块并列呈现，观众可以一眼看明白你的创作方向；进入板块后再以更完整的方式展开内容。
+tab1=光影流动
+tab2=全域运营
+tab3=笔墨叙事
+
+[board_video]
+eyebrow=Video Direction
+title=光影流动
+intro=聚焦微电影、纪录片、商业广告与原创短片，强调画面质感、节奏控制与情绪表达。
+tags=微电影,纪录片,商业广告,原创短片
+
+[board_operation]
+eyebrow=Media Operation
+title=全域运营
+intro=覆盖账号运营、内容运营与活动策划，展现从选题策划到执行落地与复盘优化的完整闭环。
+tags=IP 运营,内容运营,活动策划
+
+[board_writing]
+eyebrow=Copy Writing
+title=笔墨叙事
+intro=将学术论文、原创剧本与综合策划整合为一条更完整的文字表达线，展示结构与传播能力。
+tags=论文写作,剧本创作,综合策划
+
+[closing]
+eyebrow=Thank You
+title=感谢观看
+desc=期待与您的进一步交流
