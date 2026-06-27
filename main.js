@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 统一设置 preload，确保浏览器提前加载视频首帧
     document.querySelectorAll('.video-work__player').forEach(v => {
-        v.setAttribute('preload', 'metadata');
+        v.setAttribute('preload', 'auto');
     });
 
     document.querySelectorAll('.video-work__stage').forEach(stage => {
