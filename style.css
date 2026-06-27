@@ -707,12 +707,23 @@ img {
 }
 
 /* 子分类内容区 */
-.inline-cat {
-    display: none;
+/* 不用 display:none，用 visibility 隐藏以保持元素在布局中，让视频能预加载 */
+.inline-cat:not(.is-active) {
+    position: absolute;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
 }
 
 .inline-cat.is-active {
-    display: block;
+    position: static;
+    visibility: visible;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    opacity: 1;
 }
 
 /* 标签行 */
